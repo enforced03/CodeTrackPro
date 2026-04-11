@@ -13,6 +13,8 @@ FILE = "data.json"
 def load_data():
     if not os.path.exists(FILE):
         return []
+
+# ===================== EXCEPTION HANDLING =====================
     try:
         with open(FILE, "r") as f:
             return json.load(f)
