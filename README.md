@@ -13,7 +13,7 @@ CodeTrack Pro is a Python-based GUI application that helps students track their 
 - Python
 - Tkinter
 - JSON File Handling
-- Dictionaries, Sets, Functions
+- Dictionaries, Sets, Functions , File handling , Exceptional handling
 
 ## ▶️ How to Run
 1. Download files
