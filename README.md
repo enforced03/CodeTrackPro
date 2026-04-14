@@ -24,4 +24,4 @@ CodeTrack Pro is a Python-based GUI application that helps students track their 
 To help students improve coding skills through tracking and analytics.
 
 ## Author
-D . Snigdha
+D. Snigdha
